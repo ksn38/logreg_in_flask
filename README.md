@@ -1,1 +1,1 @@
-# titanic1
+Model of logistic regression on dataset https://www.kaggle.com/c/titanic
